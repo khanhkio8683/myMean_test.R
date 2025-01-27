@@ -5,3 +5,4 @@ myMean <- function(assignment2) {
 }
 
 myMean(assignment2)  # Test the function
+> [1] 19.41667
